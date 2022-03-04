@@ -3,3 +3,5 @@
 Przykładowy projekt, w którym nie ma nic ciekawego.
 - lista1
 - lista2
+
+Nowa linia dopisana lokalnie.
